@@ -1,0 +1,4 @@
+name: ShedulerAPI
+version: '${version}'
+main: org.infestedstudios.shedulerapi.ShedulerAPI
+api-version: '1.20'
